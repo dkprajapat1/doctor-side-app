@@ -43,7 +43,6 @@ Create the required `.env` files according to your local configuration.
 
 * Doctor management
 * Patient management
-* Appointment booking
 * Authentication & authorization
 * Emergency handling
 * Doctor slot management
